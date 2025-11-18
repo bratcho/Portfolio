@@ -459,12 +459,11 @@ const projects = {
         description: 'A fully responsive e-commerce store built with pure HTML, CSS, and JavaScript. It includes product listings, category filtering, and a functional shopping cart with localStorage support. The interface is modern, clean, and optimized for mobile and desktop.',
         technologies: ['HTML5', 'CSS3', 'Javascript', 'LocalStorage'],
         features: [
-            'User authentication and authorization',
-            'Product catalog with search and filters',
-            'Shopping cart functionality',
-            'Secure payment processing',
-            'Order management system',
-            'Admin dashboard'
+            'Dynamic product grid',
+            'Shopping cart system',
+            'Local storage persistence',
+            'Responsive UI',
+            'Smooth animation'
         ],
         github: '#',
         live: '#'
@@ -474,12 +473,12 @@ const projects = {
         description: 'A clean and responsive online library interface built using HTML, CSS, and JavaScript. It includes book listings, category filters, a search bar, and dynamic book rendering.Users can browse, preview, and interact with books through a smooth, modern UI.',
         technologies: ['HTML', 'CSS', 'MongoDB', 'FontAwesome'],
         features: [
-            'User authentication with JWT',
-            'Create, read, update, delete tasks',
-            'Task categorization and tags',
-            'Priority and due date management',
-            'Team collaboration features',
-            'Real-time updates'
+            'Interactive book list',
+            'Search & filter system',
+            'Book details preview',
+            'Local storage support',
+            'Clean modern UI',
+            'Fully responsive'
         ],
         github: '#',
         live: '#'
@@ -489,12 +488,12 @@ const projects = {
         description: 'A modern weather application built with HTML, CSS, and JavaScript, using a public weather API. It provides real-time temperature, humidity, wind speed, and weather conditions based on the user’s city input. The interface includes smooth animations, clean design, and proper error handling for invalid searches.',
         technologies: ['Weather API', 'FetchAPI', 'HTML', 'CSS', 'Javascript'],
         features: [
-            'Blog post creation and editing',
-            'Comment system with replies',
-            'Category and tag management',
-            'Advanced search functionality',
-            'User profiles and authentication',
-            'Responsive design'
+            'Real-time weather data',
+            'City search',
+            'weather details',
+            'Error handling',
+            'Dynamic weather icons',
+            'Responsive layout'
         ],
         github: '#',
         live: '#'
@@ -504,13 +503,13 @@ const projects = {
         description: 'A full-featured gym management system built using React and Node.js. It includes member registration, subscription tracking, attendance monitoring, and an admin dashboard with secure authentication. The UI is modern, responsive, and optimized for smooth real-time interactions.',
         technologies: ['React', 'Express.js', 'MongoDB', 'Node.js'],
         features: [
-            'Real-time data visualization',
-            'Interactive charts and graphs',
-            'Data filtering and sorting',
-            'Export functionality',
-            'Customizable dashboard',
-            'Responsive design'
-        ],
+            'Membre management',
+                'Subscription tracking',
+                'Admin dashboard',
+                'JWT Autentication',
+                'Rest API',
+                'Responsive UI'
+            ],
         github: '#',
         live: '#'
     }
