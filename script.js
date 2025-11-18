@@ -455,9 +455,9 @@ const projectButtons = document.querySelectorAll('.project-btn');
 // Project data
 const projects = {
     1: {
-        title: 'E-Commerce MERN Application',
-        description: 'A complete e-commerce solution built with the MERN stack. Features include user authentication, product management, shopping cart, payment integration, and order tracking. The application provides a seamless shopping experience with real-time updates and secure payment processing.',
-        technologies: ['React', 'Node.js', 'MongoDB', 'Express', 'JWT', 'Stripe API'],
+        title: 'E-Commerce Store',
+        description: 'A fully responsive e-commerce store built with pure HTML, CSS, and JavaScript. It includes product listings, category filtering, and a functional shopping cart with localStorage support. The interface is modern, clean, and optimized for mobile and desktop.',
+        technologies: ['HTML5', 'CSS3', 'Javascript', 'LocalStorage'],
         features: [
             'User authentication and authorization',
             'Product catalog with search and filters',
@@ -470,9 +470,9 @@ const projects = {
         live: '#'
     },
     2: {
-        title: 'Task Manager',
-        description: 'A comprehensive task management application with JWT authentication and full CRUD operations. Built with a modern UI and RESTful API architecture. Features include task categorization, priority levels, due dates, and team collaboration.',
-        technologies: ['Express.js', 'JWT', 'MongoDB', 'React', 'Node.js'],
+        title: 'Online Library – Book Management Interface',
+        description: 'A clean and responsive online library interface built using HTML, CSS, and JavaScript. It includes book listings, category filters, a search bar, and dynamic book rendering.Users can browse, preview, and interact with books through a smooth, modern UI.',
+        technologies: ['HTML', 'CSS', 'MongoDB', 'FontAwesome'],
         features: [
             'User authentication with JWT',
             'Create, read, update, delete tasks',
@@ -485,9 +485,9 @@ const projects = {
         live: '#'
     },
     3: {
-        title: 'Blog Platform',
-        description: 'A full-featured blog platform with comment system, categories, and advanced search functionality. The responsive interface is built with React and features a robust Node.js backend with MySQL database.',
-        technologies: ['React', 'Node.js', 'MySQL', 'Express', 'JWT'],
+        title: 'Weather App – Real-Time Weather Forecast',
+        description: 'A modern weather application built with HTML, CSS, and JavaScript, using a public weather API. It provides real-time temperature, humidity, wind speed, and weather conditions based on the user’s city input. The interface includes smooth animations, clean design, and proper error handling for invalid searches.',
+        technologies: ['Weather API', 'FetchAPI', 'HTML', 'CSS', 'Javascript'],
         features: [
             'Blog post creation and editing',
             'Comment system with replies',
@@ -500,9 +500,9 @@ const projects = {
         live: '#'
     },
     4: {
-        title: 'Analytics Dashboard',
-        description: 'An interactive dashboard for data visualization with real-time charts and analytics. Features a RESTful API built with Express.js and a React frontend with smooth animations and responsive design.',
-        technologies: ['React', 'Express.js', 'MongoDB', 'Chart.js', 'Node.js'],
+        title: 'Gym Management System – MERN Application',
+        description: 'A full-featured gym management system built using React and Node.js. It includes member registration, subscription tracking, attendance monitoring, and an admin dashboard with secure authentication. The UI is modern, responsive, and optimized for smooth real-time interactions.',
+        technologies: ['React', 'Express.js', 'MongoDB', 'Node.js'],
         features: [
             'Real-time data visualization',
             'Interactive charts and graphs',
